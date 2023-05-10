@@ -1,1 +1,2 @@
 # owlclock
+This project will try to figure out how owlbear extensions work and hopefully create a simple clock widget that is synced across playeres, that tracks initative, concentration and similar effects. I will also try to implement filters over the map depending on the time of day.
